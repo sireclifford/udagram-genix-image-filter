@@ -1,0 +1,18 @@
+branch-defaults:
+  default:
+    environment: udagram-genix-filter-dev-dev
+    group_suffix: null
+global:
+  application_name: udagram-genix-filter-dev
+  branch: null
+  default_ec2_keyname: AWS_EC2_Demo
+  default_platform: Node.js 12 running on 64bit Amazon Linux 2
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  repository: null
+  sc: null
+  workspace_type: Application
